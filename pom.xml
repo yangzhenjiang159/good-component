@@ -13,5 +13,6 @@
         <module>disruptor</module>
         <module>groovy-demo</module>
         <module>guava-cache</module>
+        <module>java-concurrent</module>
     </modules>
 </project>
